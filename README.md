@@ -110,4 +110,4 @@ Available Scripts:
 This project is licensed under the ISC License.
 
 ---
-Made with ❤️ using Express.js and MySQL
+Made with ❤️ using Express.js and MySQL By Josh✨!
